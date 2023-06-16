@@ -1,6 +1,6 @@
 # Required dependencies and programs to develop
 
-Before we start to show you how to setup every system and config files, you need to have installed the following programs on your PC:
+Before I start to show you how to setup every system and config files, you need to have installed the following programs on your PC:
 
 ## Git Bash (only Windows)
 
