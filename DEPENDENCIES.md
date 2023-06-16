@@ -1,4 +1,4 @@
-# Required dependencies and programs to develop on Minerift
+# Required dependencies and programs to develop
 
 Before we start to show you how to setup every system and config files, you need to have installed the following programs on your PC:
 
