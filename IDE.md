@@ -1,6 +1,6 @@
 # IDE Setup
 
-This guide will assume you are using IntelliJ IDEA as your main Java IDE. At Minerift, we follow the IDEA module pattern directory schema, which means every Java project on GitHub is a module on a project you create. This way, you don't have to keep opening and closing projects, which takes a while when you have more than 10 modules.
+This guide will assume you are using IntelliJ IDEA as your main Java IDE. I follow the IDEA module pattern directory schema, which means every Java project on GitHub is a module on a project you create. This way, you don't have to keep opening and closing projects, which takes a while when you have more than 10 modules.
 
 ## How do I get a project?
 
