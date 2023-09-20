@@ -44,7 +44,7 @@ This project was maintained by the Minerift Network. If you have any questions o
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/loveahox">
+        <a href="https://github.com/shm00ks">
           <img width="150" height="150" src="https://github.com/loveahox.png?v=3&s=150">
           </br>
           Ahox
