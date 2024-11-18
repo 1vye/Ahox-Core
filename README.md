@@ -1,10 +1,10 @@
 # Ahox's Core
 
-This is the code that powered the core Spigot services of Minerift. It includes the database models used by all parts of the network, interfaces used by games and hubs and utility classes.
+This is the code that powered the core Spigot services of the Minecraft network called MineRift. It includes the database models used by all parts of the network, interfaces used by games and hubs, and utility classes.
 
 ## Requirements
 
-To build Ahox's Core, the following will need to be installed and available from your shell:
+To build this core, the following will need to be installed and available from your shell:
 
 * [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) version 131 or later (older versions _might_ work)
 * [Git](https://git-scm.com/)
@@ -14,7 +14,7 @@ You can find detailed installation instructions for these tools on the (will edi
 
 ## Getting started
 
-You can build this project running the following command:
+You can build this project by running the following command:
 
 ```
 mvn package
@@ -28,7 +28,7 @@ This repo contains the following components:
 * Data models and services
 * Functionality common to all servers e.g. friends, nicknames, etc.
 * MongoDB and Redis service abstractions
-* Repository system used to serialize statistics, achievements and settings data to database values
+* Repository system used to serialize statistics, achievements, and settings data to database values
 * Global announcement system
 * Achievements API
 * Punishment system.
@@ -44,8 +44,8 @@ This project was maintained by the Minerift Network. If you have any questions o
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/shm00ks">
-          <img width="150" height="150" src="https://github.com/loveahox.png?v=3&s=150">
+        <a href="https://github.com/1vye">
+          <img width="150" height="150" src="https://github.com/1vye.png?v=3&s=150">
           </br>
           Ahox
         </a>
